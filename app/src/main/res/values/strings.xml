@@ -1,0 +1,42 @@
+<resources>
+        <string name="app_name">QUIZ APP</string>
+        <string name="start_quiz">START QUIZ</string>
+        <string name="welcome">WELCOME TO THE BIBLE QUIZ APP</string>
+        <string name="welcome2">How well do you know bible history? Click \"START QUIZ\" to begin!</string>
+        <string name="question1">1. The Bible has 66 books</string>
+        <string name="question2">2. Who built an ark to save his family from a flood?</string>
+        <string name="question3">3. Which prophet appeared with Jesus on the on the Mountain of Transfiguration?</string>
+        <string name="question4">4. Which of these Bible characters are minor prophets?</string>
+        <string name="question5">5. King David wrote all the Psalms</string>
+        <string name="question6">6. What is the name of Abraham\'s father?</string>
+        <string name="submit">SUBMIT</string>
+        <string name="reset">RESET</string>
+        <string name="next">NEXT</string>
+        <string name="back">BACK</string>
+        <string name="show_answers">VIEW ANSWERS</string>
+        <string name="False">false</string>
+        <string name="True">true</string>
+        <string name="moses">Moses</string>
+        <string name="jonah">Jonah</string>
+        <string name="noah">Noah</string>
+        <string name="quiz_app">My Bible History Quiz App!</string>
+        <string name="hint">Type name here</string>
+        <string name="malachi">Malachi</string>
+        <string name="zephaniah">Zephaniah</string>
+        <string name="isaiah">Isaiah</string>
+        <string name="habakkuk">Habakkuk</string>
+        <string name="job">Job</string>
+        <string name="nehemiah">Nehemiah</string>
+        <string name="score_message">Your score is: </string>
+        <string name="scoreMessage"> out of 6</string>
+        <string name="answer_title">QUIZ ANSWERS</string>
+        <string name="answers">
+        \nQuestion One\- True
+        \n\nQuestion Two\- Noah
+        \n\nQuestion Three\- Elijah
+        \n\nQuestion Four\- Malachi, Zephaniah and Habakkuk
+        \n\nQuestion Five\- False
+        \n\nQuestion Six\- Terah\n\n</string>
+        <string name="back2quiz">BACK TO QUIZ</string>
+        <string name="home">HOME</string>
+</resources>
